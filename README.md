@@ -42,15 +42,4 @@ Click the + icon, select JARs or directories..., and browse to your downloaded .
 
 3. Run the application
 Open the WeatherAPIData.java file and run the main method.
-Usage Example
-Plaintext
-====================================
-Enter the city name(Say no to Quit): 
-London
-Current time: 2026-03-25T14:00
-Current temperature: 15.5
-Relative humidity: 72
-Wind speed: 12.3
-====================================
-Enter the city name(Say no to Quit): 
-No
+
