@@ -42,7 +42,6 @@ Click the + icon, select JARs or directories..., and browse to your downloaded .
 
 3. Run the application
 Open the WeatherAPIData.java file and run the main method.
-
 Usage Example
 Plaintext
 ====================================
